@@ -14,6 +14,6 @@ Fields:
 6.Adj Close
 7.Volume
 
-Algorithm used: RNN with 150 time steps and 4 layers each with 50 neurons
+Algorithm used: RNN with 10 time steps and 4 layers each with 50 neurons
 
-![image](https://user-images.githubusercontent.com/42893363/116814896-9ccc6c00-ab78-11eb-806c-711a2221d932.png)
+![image](https://user-images.githubusercontent.com/42893363/116815245-4e1fd180-ab7a-11eb-841c-205bee9403f1.png)
