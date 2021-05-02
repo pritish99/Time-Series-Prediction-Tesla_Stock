@@ -72,7 +72,7 @@ regressor.fit(X_train, y_train, epochs = 100, batch_size = 32)
 
 # Part 3 - Making the predictions and visualising the results
 
-# Getting the real stock price of 2017
+# Getting the real stock price of 2020
 dataset_test = pd.read_csv("Testing_set.csv")
 real_stock_price = dataset_test.iloc[:, 4:5].values
 
