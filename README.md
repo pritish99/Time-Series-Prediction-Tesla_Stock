@@ -16,4 +16,5 @@ Fields:
 
 Algorithm used: RNN with 10 time steps and 4 layers each with 50 neurons
 
-![image](https://user-images.githubusercontent.com/42893363/116815245-4e1fd180-ab7a-11eb-841c-205bee9403f1.png)
+![image](https://user-images.githubusercontent.com/42893363/120869942-3ee6d600-c5b5-11eb-8472-a3495835aa1f.png)
+
